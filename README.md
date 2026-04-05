@@ -1,12 +1,8 @@
----
+
 
 # 🌾 GraminSarthi
 
 ### AI-Powered Multi-Modal Agricultural Intelligence Platform
-
-> **Bridging the information gap for rural farmers through AI, voice, and multilingual intelligence.**
-
----
 
 ## 📌 Overview
 
